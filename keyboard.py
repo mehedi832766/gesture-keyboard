@@ -10,7 +10,7 @@ cap.set(2100 , 1920)
 cap.set(9, 1080)
 detector = hd(detectionCon=0.8)
 
-
+#keyboard keys
 keys = [["Q","W","E","R","T","Y","U","I","O","P"],
         ["A","S","D","F","G","H","J","K","L"],
         ["Z","X","C","V","B","N","M",",",".","/"]]
